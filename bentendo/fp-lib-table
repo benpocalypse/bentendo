@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Bentendo)(type KiCad)(uri /home/flecko/Projects/Bentendo/BT-DMG/Libraries/)(options "")(descr ""))
+  (lib (name Libraries)(type KiCad)(uri "$(KIPRJMOD)/Libraries")(options "")(descr ""))
+)
